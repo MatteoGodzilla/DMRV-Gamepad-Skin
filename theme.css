@@ -1,0 +1,15 @@
+.controller.ds4{
+  background-image: url(https://raw.githubusercontent.com/MatteoGodzilla/DMRV-Gamepad-Skin/main/base-edit.svg);
+}
+
+.ds4 .button{
+  background-image: url(https://raw.githubusercontent.com/MatteoGodzilla/DMRV-Gamepad-Skin/main/face-edit.svg);
+}
+
+.ds4 .face {
+  background-image: url(https://raw.githubusercontent.com/MatteoGodzilla/DMRV-Gamepad-Skin/main/dpad-edit.svg);
+}
+
+.ds4 .bumper{
+  background-image: url(https://raw.githubusercontent.com/MatteoGodzilla/DMRV-Gamepad-Skin/main/bumper-edit.svg);
+}
